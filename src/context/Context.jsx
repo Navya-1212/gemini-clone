@@ -80,4 +80,4 @@ const ContextProvider = (props) => {
     )
 }
 
-export default ContextProvider
+export default ContextProvider;
